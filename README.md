@@ -1,5 +1,5 @@
 # Web-Proxy-PHP-Colab
-Run a web proxy written in PHP through Google Colab
+Run a web proxy written in PHP through Google Colab made by [Deviper-Labs](https://github.com/Deviper-Labs)
 
 ## Note:
 The actual proxy was created by [Athlon1600](https://github.com/Athlon1600), called [php-proxy](https://github.com/Athlon1600/php-proxy-app)
