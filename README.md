@@ -1,4 +1,9 @@
 # Web-Proxy-PHP-Colab
+
+<a target="_blank" href="https://colab.research.google.com/github/Deviper-Labs/Web-Proxy-PHP-Colab/blob/main/web.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Run a web proxy written in PHP through Google Colab made by [Deviper-Labs](https://github.com/Deviper-Labs)
 
 ## Note:
